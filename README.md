@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadi7khan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m a Mobile Application Developer. I use Flutter to develop Mobile Apps.
 - 💞️ I’m looking to collaborate on any Flutter based Project
 
 
